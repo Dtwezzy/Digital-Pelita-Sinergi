@@ -1,0 +1,18 @@
+Rest API untuk :
+  - Absensi
+  - Potensi
+  - Minat Bakat
+  - Data Sekolah
+
+Rest API yang sudah tercapai :
+  -Login Siswa
+  -Data Siswa
+  -Jadwal
+  -Nilai
+
+Tambahan Method @Get Semua untuk :
+  -Profil FAQ
+  -Syarat dan Ketentuan
+  -Pengumuman
+  
+(Trouble) Masih belum bisa Login Dashboard
